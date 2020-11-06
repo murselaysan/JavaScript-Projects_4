@@ -11,6 +11,9 @@ const random = Math.floor(Math.random() * 3);
     }
 };
 
+
+
+
 // The scope of `days` is too tight 
 const getTrainingDays = event => {
     let days;
