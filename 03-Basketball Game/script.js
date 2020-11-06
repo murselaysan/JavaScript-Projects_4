@@ -13,7 +13,9 @@ if (scoreJohn > scoreMike) {
 
 let scoreMary = (97 + 134 + 105) / 3;
 
+
 console.log(scoreJohn, scoreMike, scoreMary);
+
 
 if (scoreJohn > scoreMike && scoreJohn > scoreMary) {
     console.log('John\'s team wins with ' + scoreJohn + ' points');
