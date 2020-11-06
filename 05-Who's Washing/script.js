@@ -10,7 +10,7 @@ function whoIsWashing(names) {
    
   }
 
-  let neighbours = ["Patrick", "AnnMarie","Alisol", "Walton"];
+  let neighbours  = ["Patrick", "AnnMarie","Alison", "Walton"];
   
   console.log(whoIsWashing(names));
   console.log(whoIsWashing(neighbours));
